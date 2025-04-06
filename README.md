@@ -1,20 +1,25 @@
-# Welcome to Darleison Rodrigues' Page
+Welcome to Darleison Rodrigues' Page
+Welcome GIF
+Feel the rhythm of data, economics, games, and music!
 
 Hello! I'm Darleison Rodrigues, and I'm passionate about exploring the fascinating worlds of data science, economics, games, and music. These interests drive my curiosity and inspire my projects.
 
-## Current Endeavors
+🚀 Current Endeavors
+👀 Interests:
+Data Science, Economics, Games, and Music
 
-- 👀 I’m interested in: **Data Science, Economics, Games, and Music**
-- 🌱 I’m currently learning: **React and GCP**
-- 💞️ I’m looking to collaborate on: **Any API Development**
+🌱 Currently Learning:
+React and GCP
 
-## Get in Touch
+💞️ Open to Collaborate On:
+Any API Development
 
-- 📫 How to reach me: **darleison.f@gmail.com**
+📂 Repositories
+Check out some of my work:
 
+✨ Special Repository
+This repository is special because its README.md appears on my GitHub profile. Click the Preview link to take a look at my changes.
+📬 Get in Touch
+Email:
+darleison.f@gmail.com
 Feel free to reach out for discussions, collaborations, or new opportunities!
-
-<!---
-DarleisonRodriguesOSF/DarleisonRodriguesOSF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
