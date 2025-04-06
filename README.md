@@ -3,6 +3,8 @@ Welcome GIF
 Feel the rhythm of data, economics, games, and music!
 
 Hello! I'm Darleison Rodrigues, and I'm passionate about exploring the fascinating worlds of data science, economics, games, and music. These interests drive my curiosity and inspire my projects.
+## GitHub Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DarleisonRodriguesOSF&show_icons=true&theme=cobalt)
 
 🚀 Current Endeavors
 👀 Interests:
